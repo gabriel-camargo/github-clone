@@ -19,7 +19,7 @@ export const SearchForm = styled.form`
   width: 100%;
 
   input {
-    background: var(--primary);
+    background: var(--search);
     outline: 0;
     border-radius: 6px;
     padding: 7px 12px;
