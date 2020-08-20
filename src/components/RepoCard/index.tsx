@@ -14,7 +14,7 @@ interface Props {
   reponame: string
   description?: string
   language?: string
-  stars?: number
+  stars?: number | string
   forks?: number
 }
 
